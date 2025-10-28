@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "../src/assets/assets/demo-app (1).webp",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "SeekrTech",
+    "description": "Grow virtual trees as you stay focused. Reduce distractions and build better habits.",
+    "size": "122MB",
+    "reviews": "54K",
+    "ratingAvg": 4.8,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 1800000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "../src/assets/assets/demo-app (2).webp",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "SmartLife Tools",
+    "description": "Organize tasks efficiently with reminders, lists, and calendar syncing.",
+    "size": "122MB",
+    "reviews": "87K",
+    "ratingAvg": 4.7,
+    "downloads": "9.1M",
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 18000 },
+      { "name": "3 star", "count": 36000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 700000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/assets/demo-app (3).webp",
+    "title": "FLIP – Focus Timer For Study",
+    "companyName": "RinaSoft",
+    "description": "Pomodoro-style study timer to help you stay off your phone and concentrate.",
+    "size": "242MB",
+    "reviews": "45K",
+    "ratingAvg": 4.9,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 1170000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "../src/assets/assets/demo-app (4).webp",
+    "title": "Pomocat – Cute Pomodoro Timer",
+    "companyName": "Kawaii Studio",
+    "description": "Adorable cat-themed Pomodoro timer to make studying fun and focused.",
+    "size": "252MB",
+    "reviews": "56K",
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 430000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "../src/assets/assets/demo-app (5).webp",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "TimeBoost Inc.",
+    "description": "Easily manage your time and daily schedules with elegant task planning.",
+    "size": "132MB",
+    "reviews": "67K",
+    "ratingAvg": 4.6,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 14000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 440000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "../src/assets/assets/demo-app (6).webp",
+    "title": "Morning Habits – Daily Routine",
+    "companyName": "FocusFlow Labs",
+    "description": "Start your mornings with structure and track your healthy habits daily.",
+    "size": "122MB",
+    "reviews": "82K",
+    "ratingAvg": 4.8,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 27000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 612000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "../src/assets/assets/demo-app (2).webp",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "SeekrTech",
+    "description": "Gamified focus timer — grow cute digital plants as you concentrate.",
+    "size": "111MB",
+    "reviews": "90K",
+    "ratingAvg": 4.9,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 1660000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "../src/assets/assets/demo-app (4).webp",
+    "title": "Alarmy – Alarm Clock & Sleep",
+    "companyName": "Delight Room Co.",
+    "description": "Smart alarm that forces you to get out of bed to turn it off. Wake up refreshed!",
+    "size": "122MB",
+    "reviews": "20K",
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 11000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 190000 },
+      { "name": "5 star", "count": 1260000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "../src/assets/assets/demo-app (1).webp",
+    "title": "Todometer – Task Progress Tracker",
+    "companyName": "Binary Launch",
+    "description": "Visualize your productivity and track daily task completion progress.",
+    "size": "122MB",
+    "reviews": "44K",
+    "ratingAvg": 4.5,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 321000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "../src/assets/assets/demo-app (3).webp",
+    "title": "Habitica – Gamify Your Tasks",
+    "companyName": "HabitRPG Inc.",
+    "description": "Turn your daily habits and goals into an RPG game and stay motivated.",
+    "size": "122MB",
+    "reviews": "97K",
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 1625000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "../src/assets/assets/demo-app (6).webp",
+    "title": "TickTick – To-Do & Calendar",
+    "companyName": "Appest Inc.",
+    "description": "All-in-one productivity app combining tasks, habits, and calendar integration.",
+    "size": "122MB",
+    "reviews": "3M",
+    "ratingAvg": 4.9,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 19000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 190000 },
+      { "name": "5 star", "count": 1840000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "../src/assets/assets/demo-app (1).webp",
+    "title": "Notion – Notes, Tasks & Docs",
+    "companyName": "Notion Labs",
+    "description": "Your all-in-one workspace for notes, tasks, databases, and collaboration.",
+    "size": "122MB",
+    "reviews": "1M",
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 2080000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "../src/assets/assets/demo-app (4).webp",
+    "title": "Todoist – Task Manager & Planner",
+    "companyName": "Doist Inc.",
+    "description": "Powerful task management tool to organize projects and daily goals.",
+    "size": "122MB",
+    "reviews": "50K",
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 22000 },
+      { "name": "3 star", "count": 45000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 1960000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "../src/assets/assets/demo-app (5).webp",
+    "title": "Focus Keeper – Pomodoro Timer",
+    "companyName": "Pixign Apps",
+    "description": "Stay productive using the classic Pomodoro Technique with progress charts.",
+    "size": "122MB",
+    "reviews": "53K",
+    "ratingAvg": 4.6,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 19000 },
+      { "name": "4 star", "count": 95000 },
+      { "name": "5 star", "count": 400000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "../src/assets/assets/demo-app (6).webp",
+    "title": "Loop – Habit Tracker",
+    "companyName": "Alduin Studio",
+    "description": "Track your habits with beautiful charts and reminders. Simple yet powerful.",
+    "size": "122MB",
+    "reviews": "89K",
+    "ratingAvg": 4.8,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 693000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "../src/assets/assets/demo-app (4).webp",
+    "title": "Fabulous – Daily Routine Planner",
+    "companyName": "Fabulous Studio",
+    "description": "Build healthy habits, focus better, and improve your daily routine.",
+    "size": "122MB",
+    "reviews": "29K",
+    "ratingAvg": 4.9,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 35000 },
+      { "name": "2 star", "count": 24000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 280000 },
+      { "name": "5 star", "count": 2530000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "../src/assets/assets/demo-app (3).webp",
+    "title": "Timer Tab – Simple Focus Timer",
+    "companyName": "DevLabs",
+    "description": "A clean and easy-to-use focus timer that helps you manage study sessions.",
+    "size": "122MB",
+    "reviews": "30K",
+    "ratingAvg": 4.5,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 7000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 200000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "../src/assets/assets/demo-app (1).webp",
+    "title": "RescueTime – Productivity Tracker",
+    "companyName": "RescueTime Inc.",
+    "description": "Automatically track your app and website usage to improve focus and balance.",
+    "size": "122MB",
+    "reviews": "1.3M",
+    "ratingAvg": 4.7,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 35000 },
+      { "name": "4 star", "count": 140000 },
+      { "name": "5 star", "count": 1185000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "../src/assets/assets/demo-app (2).webp",
+    "title": "HabitHub – Habit & Goal Tracker",
+    "companyName": "Randall Apps",
+    "description": "Stay consistent with streaks, goals, and habit-building insights.",
+    "size": "122MB",
+    "reviews": "64K",
+    "ratingAvg": 4.6,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 11000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 470000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "../src/assets/assets/demo-app (4).webp",
+    "title": "Minimalist – Simple ToDo List",
+    "companyName": "Tiny Studio",
+    "description": "A beautifully minimal task manager to help you focus on what matters.",
+    "size": "122MB",
+    "reviews": "55K",
+    "ratingAvg": 4.8,
+   "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 17000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 416000 }
+    ]
+  }
+]
