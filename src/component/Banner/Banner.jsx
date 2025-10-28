@@ -11,7 +11,7 @@ const Banner = () => {
     <div className='text-center'>
       <h1 className='font-bold text-6xl mt-10 text-[#001931]'>We Build <br /><span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"
       >Productive</span> Apps</h1>
-      <p className='w-sm md:w-md lg:w-4xl m-auto my-6 text-[#627382]'>At Apps Galaxy, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+      <p className='w-70 md:w-md lg:w-4xl m-auto my-6 text-[#627382]'>At Apps Galaxy, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
       <div className='flex  w-[350px] justify-evenly m-auto'>
 
         <button className='border border-gray-400 py-2 flex gap-2 w-[150px] justify-center items-center'>

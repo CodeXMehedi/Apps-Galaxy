@@ -12,7 +12,7 @@ const AppCard = ({ appData }) => {
     <Link to={`/appDetails/${id}`} className='shadow-md flex flex-col p-4 bg-white rounded-lg'>
       <img src={image} alt="d" />
       <h3 className='text-lg flex-1 mt-2'>{title}</h3>
-      <div className='flex justify-between mt-2'>
+      <div className='flex flex-col gap-2 lg:flex-row lg:justify-between  mt-2'>
         <button className='bg-[#F1F5E8] text-[#00D390] flex items-center gap-2 px-3 py-1 rounded-sm'>
           <img className='w-4 h-4' src={downlood} alt="" />
           <p>{downloads}</p></button>

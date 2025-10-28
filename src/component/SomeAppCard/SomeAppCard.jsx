@@ -10,7 +10,7 @@ const SomeAppCard = ({ someAppData }) => {
     <Link to={`/appDetails/${id}`} className='shadow-md flex flex-col p-4 '>
       <img src={someAppData.image} alt="d" />
       <h3 className='text-lg flex-1 mt-2'>{someAppData.title}</h3>
-      <div className='flex justify-between mt-2'>
+      <div className='flex flex-col lg:flex-row gap-2 lg:justify-between mt-2'>
         <button className='bg-[#F1F5E8] text-[#00D390] flex items-center gap-2 px-3 py-1 rounded-sm'>
           <img className='w-4 h-4' src={downlood} alt="" />
           <p>{someAppData.downloads}</p></button>

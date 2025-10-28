@@ -73,7 +73,16 @@ const AppDetail = () => {
         <div className='w-11/12 m-auto'>
           <p className='p-4 font-semibold text-xl'>Ratings</p>
           <div className='md:hidden'>
-            <BarChart layout="vertical" width={300} height={400} data={appChartData} >
+            <BarChart layout="vertical" width={250} height={300} data={appChartData} >
+
+              <XAxis type="number" axisLine={false} tickLine={false}  />
+              <YAxis dataKey="name" type="category" axisLine={false} tickLine={false} />
+              <Tooltip />
+              <Bar dataKey="count" fill="#ff9500" barSize={30} />
+            </BarChart>
+          </div>
+          <div className="hidden md:block lg:hidden" >
+            <BarChart layout="vertical" width={500} height={400} data={appChartData} >
 
               <XAxis type="number" axisLine={false} tickLine={false} />
               <YAxis dataKey="name" type="category" axisLine={false} tickLine={false} />
@@ -81,7 +90,7 @@ const AppDetail = () => {
               <Bar dataKey="count" fill="#ff9500" barSize={40} />
             </BarChart>
           </div>
-          <div className="hidden lg:block" >
+          <div className="hidden  lg:block" >
             <BarChart layout="vertical" width={1000} height={400} data={appChartData} >
 
               <XAxis type="number" axisLine={false} tickLine={false} />
